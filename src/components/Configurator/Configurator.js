@@ -54,7 +54,7 @@ export default function Configurator(props) {
           <DrawerHeader pt="24px" px="24px">
             <DrawerCloseButton />
             <Text fontSize="xl" fontWeight="bold" mt="16px">
-              Purity UI Configurator
+              PROCUREMENT UI Configurator
             </Text>
             <Text fontSize="md" mb="16px">
               See your dashboard options.
@@ -144,7 +144,7 @@ export default function Configurator(props) {
                 </Text>
                 <Box>
                   <Link
-                    href="https://www.linkedin.com/in/leslie-chihwai-284515170//product/purity-ui-dashboard"
+                    href="https://www.linkedin.com/in/leslie-chihwai-284515170//product/PROCUREMENT-ui-dashboard"
                     w="100%"
                     mb="16px"
                   >
@@ -161,7 +161,7 @@ export default function Configurator(props) {
                     </Button>
                   </Link>
                   <Link
-                    href="https://demos.creative-tim.com/docs-purity-ui-dashboard/"
+                    href="https://demos.creative-tim.com/docs-PROCUREMENT-ui-dashboard/"
                     w="100%"
                   >
                     <Button
@@ -186,10 +186,10 @@ export default function Configurator(props) {
                   mb="16px"
                 >
                   <GitHubButton
-                    href="https://github.com/creativetimofficial/purity-ui-dashboard"
+                    href="https://github.com/creativetimofficial/PROCUREMENT-ui-dashboard"
                     data-icon="octicon-star"
                     data-show-count="true"
-                    aria-label="Star creativetimofficial/purity-ui-dashboard on GitHub"
+                    aria-label="Star creativetimofficial/PROCUREMENT-ui-dashboard on GitHub"
                   >
                     Star
                   </GitHubButton>
@@ -201,7 +201,7 @@ export default function Configurator(props) {
                   <Flex justifyContent="center" alignContent="center">
                     <Link
                       isExternal="true"
-                      href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fpurity-ui-dashboard&text=Check%20Purity%20UI%20Dashboard%20made%20by%20%40CreativeTim%20and%20%40simmmple_web%20%23webdesign%20%23dashboard%20%23chakra"
+                      href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2FPROCUREMENT-ui-dashboard&text=Check%20PROCUREMENT%20UI%20Dashboard%20made%20by%20%40CreativeTim%20and%20%40simmmple_web%20%23webdesign%20%23dashboard%20%23chakra"
                     >
                       <Button
                         colorScheme="twitter"
@@ -213,7 +213,7 @@ export default function Configurator(props) {
                     </Link>
                     <Link
                       isExternal="true"
-                      href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fpurity-ui-dashboard"
+                      href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2FPROCUREMENT-ui-dashboard"
                     >
                       <Button colorScheme="facebook" leftIcon={<FaFacebook />}>
                         <Text>Share</Text>
