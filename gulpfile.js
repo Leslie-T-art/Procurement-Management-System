@@ -9,12 +9,12 @@ gulp.task("licenses", async function () {
       gap.prependText(`/*!
 
       =========================================================
-      * Purity UI Dashboard - v1.0.1
+      * PROCUREMENT DASHBOARD - v1.0.1
       =========================================================
       
-      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/purity-ui-dashboard
+      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/PROCUREMENT-ui-dashboard
       * Copyright 2023 Leslie Chihwai (https://www.linkedin.com/in/leslie-chihwai-284515170/)
-      * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
+      * Licensed under MIT (https://github.com/creativetimofficial/PROCUREMENT-ui-dashboard/blob/master/LICENSE.md)
       
       * Design by Leslie Chihwai & Coded by Simmmple
       
@@ -34,12 +34,12 @@ gulp.task("licenses", async function () {
       /*!
       
       =========================================================
-      * Purity UI Dashboard - v1.0.1
+      * PROCUREMENT DASHBOARD - v1.0.1
       =========================================================
       
-      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/purity-ui-dashboard
+      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/PROCUREMENT-ui-dashboard
       * Copyright 2023 Leslie Chihwai (https://www.linkedin.com/in/leslie-chihwai-284515170/)
-      * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
+      * Licensed under MIT (https://github.com/creativetimofficial/PROCUREMENT-ui-dashboard/blob/master/LICENSE.md)
       
       * Design by Leslie Chihwai & Coded by Simmmple
       
@@ -59,12 +59,12 @@ gulp.task("licenses", async function () {
       gap.prependText(`/*!
 
       =========================================================
-      * Purity UI Dashboard - v1.0.1
+      * PROCUREMENT DASHBOARD - v1.0.1
       =========================================================
       
-      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/purity-ui-dashboard
+      * Product Page: https://www.linkedin.com/in/leslie-chihwai-284515170//product/PROCUREMENT-ui-dashboard
       * Copyright 2023 Leslie Chihwai (https://www.linkedin.com/in/leslie-chihwai-284515170/)
-      * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
+      * Licensed under MIT (https://github.com/creativetimofficial/PROCUREMENT-ui-dashboard/blob/master/LICENSE.md)
       
       * Design by Leslie Chihwai & Coded by Simmmple
       
