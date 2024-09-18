@@ -351,13 +351,13 @@ export const billingData = [
 export const newestTransactions = [
   {
     name: "Netflix",
-    date: "27 March 2021, at 12:30 PM",
+    date: "27 March 2023, at 12:30 PM",
     price: "- $2,500",
     logo: FaArrowDown,
   },
   {
     name: "Apple",
-    date: "27 March 2021, at 12:30 PM",
+    date: "27 March 2023, at 12:30 PM",
     price: "+ $2,500",
     logo: FaArrowUp,
   },
@@ -366,25 +366,25 @@ export const newestTransactions = [
 export const olderTransactions = [
   {
     name: "Stripe",
-    date: "26 March 2021, at 13:45 PM",
+    date: "26 March 2023, at 13:45 PM",
     price: "+ $800",
     logo: FaArrowUp,
   },
   {
     name: "HubSpot",
-    date: "26 March 2021, at 12:30 PM",
+    date: "26 March 2023, at 12:30 PM",
     price: "+ $1,700",
     logo: FaArrowUp,
   },
   {
     name: "Webflow",
-    date: "26 March 2021, at 05:00 PM",
+    date: "26 March 2023, at 05:00 PM",
     price: "Pending",
     logo: AiOutlineExclamation,
   },
   {
     name: "Microsoft",
-    date: "25 March 2021, at 16:30 PM",
+    date: "25 March 2023, at 16:30 PM",
     price: "- $987",
     logo: FaArrowDown,
   },
