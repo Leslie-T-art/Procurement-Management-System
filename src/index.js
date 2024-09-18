@@ -1,14 +1,12 @@
 /*!
 
 =========================================================
-* Purity UI Dashboard - v1.0.1
+* Procurement Management Dashboard - v1.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/purity-ui-dashboard
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
+* Copyright 2023 Leslie Chihwai 
 
-* Design by Creative Tim & Coded by Simmmple
+* Design by Leslie Chihwai 
 
 =========================================================
 
