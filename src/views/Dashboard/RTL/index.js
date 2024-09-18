@@ -68,7 +68,7 @@ export default function Dashboard() {
         gap='24px'>
         <BuiltByDevelopers
           title={"بناها المطورون"}
-          name={"لوحة معلومات Purity UI"}
+          name={"لوحة معلومات PROCUREMENT UI"}
           description={
             "من الألوان والبطاقات والطباعة إلى العناصر المعقدة ، ستجد الوثائق الكاملة."
           }
