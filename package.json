@@ -1,8 +1,8 @@
 {
-	"name": "purity-dashboard-react",
+	"name": "PROCUREMENT-dashboard-react",
 	"version": "2.0.2",
 	"private": true,
-	"homepage": "https://demos.creative-tim.com/purity-ui-dashboard/#/",
+	"homepage": "https://demos.creative-tim.com/PROCUREMENT-ui-dashboard/#/",
 	"dependencies": {
 		"@chakra-ui/icons": "^1.1.5",
 		"@chakra-ui/react": "1.8.8",
