@@ -21,7 +21,7 @@ const SalesOverview = ({ title, percentage, chart }) => {
               fontWeight='bold'>
               {`${percentage}%`} more
             </Text>{" "}
-            in 2021
+            in 2023
           </Text>
         </Flex>
       </CardHeader>
