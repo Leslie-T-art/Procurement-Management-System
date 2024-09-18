@@ -66,7 +66,7 @@ stylis                               4.0.10         →         4.0.13
 
 There is a warnings related to the stylis-plugin-rtl dependency that won't affect on the behavior of the product its something with the library itself.
 
-## [1.0.2] 2021-09-13
+## [1.0.2] 2023-09-13
 
 ### Update v1.0.2
 
@@ -81,7 +81,7 @@ node-sass                            5.0.0          →         7.0.1
 react-scripts                        4.0.3          →         5.0.0
 ```
 
-## [1.0.1] 2021-09-13
+## [1.0.1] 2023-09-13
 
 ### Update v1.0.1
 
@@ -101,7 +101,7 @@ stylis                               4.0.10         →         4.0.13
 stylis-plugin-rtl                    2.1.0          →         2.1.14
 ```
 
-## [1.0.0] 2021-08-20
+## [1.0.0] 2023-08-20
 
 ### Original Release
 
