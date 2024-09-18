@@ -144,7 +144,7 @@ export default function Configurator(props) {
                 </Text>
                 <Box>
                   <Link
-                    href="https://www.creative-tim.com/product/purity-ui-dashboard"
+                    href="https://www.linkedin.com/in/leslie-chihwai-284515170//product/purity-ui-dashboard"
                     w="100%"
                     mb="16px"
                   >
